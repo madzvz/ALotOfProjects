@@ -1,0 +1,14 @@
+D:\ALotOfProjects\WolfAndGoats\WolfAndGoats\WolfAndGoats\bin\Debug\WolfAndGoats.exe.config
+D:\ALotOfProjects\WolfAndGoats\WolfAndGoats\WolfAndGoats\bin\Debug\WolfAndGoats.exe
+D:\ALotOfProjects\WolfAndGoats\WolfAndGoats\WolfAndGoats\bin\Debug\WolfAndGoats.pdb
+D:\ALotOfProjects\WolfAndGoats\WolfAndGoats\WolfAndGoats\obj\Debug\WolfAndGoats.csprojResolveAssemblyReference.cache
+D:\ALotOfProjects\WolfAndGoats\WolfAndGoats\WolfAndGoats\obj\Debug\MainWindow.g.cs
+D:\ALotOfProjects\WolfAndGoats\WolfAndGoats\WolfAndGoats\obj\Debug\App.g.cs
+D:\ALotOfProjects\WolfAndGoats\WolfAndGoats\WolfAndGoats\obj\Debug\WolfAndGoats_MarkupCompile.cache
+D:\ALotOfProjects\WolfAndGoats\WolfAndGoats\WolfAndGoats\obj\Debug\WolfAndGoats_MarkupCompile.lref
+D:\ALotOfProjects\WolfAndGoats\WolfAndGoats\WolfAndGoats\obj\Debug\MainWindow.baml
+D:\ALotOfProjects\WolfAndGoats\WolfAndGoats\WolfAndGoats\obj\Debug\WolfAndGoats.g.resources
+D:\ALotOfProjects\WolfAndGoats\WolfAndGoats\WolfAndGoats\obj\Debug\WolfAndGoats.Properties.Resources.resources
+D:\ALotOfProjects\WolfAndGoats\WolfAndGoats\WolfAndGoats\obj\Debug\WolfAndGoats.csproj.GenerateResource.Cache
+D:\ALotOfProjects\WolfAndGoats\WolfAndGoats\WolfAndGoats\obj\Debug\WolfAndGoats.exe
+D:\ALotOfProjects\WolfAndGoats\WolfAndGoats\WolfAndGoats\obj\Debug\WolfAndGoats.pdb
